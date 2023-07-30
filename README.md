@@ -14,3 +14,4 @@ Desktop View :
 
 Mobile View :
 <img width="475" alt="Screenshot 2023-07-31 at 1 22 06 AM" src="https://github.com/shekharaditya7/react-chess/assets/39407449/14e76971-fa38-40ee-994e-280c711bca98">
+
