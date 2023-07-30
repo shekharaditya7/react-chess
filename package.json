@@ -1,6 +1,6 @@
 {
   "name": "reactjs-chess",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "dist/components/Chess/index.js",
   "author": {
     "name": "Aditya Shekhar",
