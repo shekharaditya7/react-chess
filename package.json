@@ -1,6 +1,6 @@
 {
   "name": "reactjs-chess",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/components/Chess/index.js",
   "author": {
     "name": "Aditya Shekhar",
@@ -11,7 +11,6 @@
     "url": "git+https://github.com/shekharaditya7/react-chess"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1",
     "classnames": "^2.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -40,9 +39,16 @@
       "last 1 safari version"
     ]
   },
+  "keywords": [
+    "Chess",
+    "React Chess",
+    "Chessboard",
+    "React Chessboard"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
+    "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.22.9"
   }
 }
