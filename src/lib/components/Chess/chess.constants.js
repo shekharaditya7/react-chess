@@ -1,16 +1,28 @@
-import whiteRook from "../../../images/chess/white-rook.webp";
-import whiteKnight from "../../../images/chess/white-knight.webp";
-import whiteBishop from "../../../images/chess/white-bishop.webp";
-import whiteKing from "../../../images/chess/white-king.webp";
-import whiteQueen from "../../../images/chess/white-queen.webp";
-import whitePawn from "../../../images/chess/white-pawn.webp";
+const whiteRook =
+  "https://this-is-me-74cbf.web.app/images/chess/white-rook.webp";
+const whiteKnight =
+  "https://this-is-me-74cbf.web.app/images/chess/white-knight.webp";
+const whiteBishop =
+  "https://this-is-me-74cbf.web.app/images/chess/white-bishop.webp";
+const whiteKing =
+  "https://this-is-me-74cbf.web.app/images/chess/white-king.webp";
+const whiteQueen =
+  "https://this-is-me-74cbf.web.app/images/chess/white-queen.webp";
+const whitePawn =
+  "https://this-is-me-74cbf.web.app/images/chess/white-pawn.webp";
 
-import blackRook from "../../../images/chess/black-rook.webp";
-import blackKnight from "../../../images/chess/black-knight.webp";
-import blackBishop from "../../../images/chess/black-bishop.webp";
-import blackKing from "../../../images/chess/black-king.webp";
-import blackQueen from "../../../images/chess/black-queen.webp";
-import blackPawn from "../../../images/chess/black-pawn.webp";
+const blackRook =
+  "https://this-is-me-74cbf.web.app/images/chess/black-rook.webp";
+const blackKnight =
+  "https://this-is-me-74cbf.web.app/images/chess/black-knight.webp";
+const blackBishop =
+  "https://this-is-me-74cbf.web.app/images/chess/black-bishop.webp";
+const blackKing =
+  "https://this-is-me-74cbf.web.app/images/chess/black-king.webp";
+const blackQueen =
+  "https://this-is-me-74cbf.web.app/images/chess/black-queen.webp";
+const blackPawn =
+  "https://this-is-me-74cbf.web.app/images/chess/black-pawn.webp";
 
 export const LOCAL_CONFIG_KEY = "chess-config";
 export const REDO_KEY = "redo-list";

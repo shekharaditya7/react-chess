@@ -1,3 +1,4 @@
+import React from "react";
 import cx from "classnames";
 import { COLORS } from "./chess.constants";
 import styles from "./index.module.scss";
