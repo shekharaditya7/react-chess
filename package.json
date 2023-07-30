@@ -1,11 +1,12 @@
 {
   "name": "reactjs-chess",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/components/Chess/index.js",
   "author": {
     "name": "Aditya Shekhar",
     "email": "shekharaditya7@gmail.com"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shekharaditya7/react-chess"
